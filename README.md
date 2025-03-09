@@ -15,8 +15,7 @@ Hello! 👋 I'm Ng Zheng Jie. I am currently studying Year 1 at Univerity of Mal
 
 ## Contact Me
 - 📫 Email: ngzhengjie888@gmail.com
-- 🌐 Website: -
-- 💼 LinkedIn: -
+- 💼 LinkedIn: www.linkedin.com/in/ng-zheng-jie-3935971ab
 ---
 
 Feel free to explore my repositories and contribute to open-source projects! 😊

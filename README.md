@@ -1,7 +1,7 @@
 
 - # About Me
 
-Hello! 👋 I'm Ng Zheng Jie. I am currently in Year 2 at Univeriti Malaya in Computer Science with a focus on Artificial Intelligence. I am passionate about learning and working on innovative projects in AI, machine learning, and software development. Feel free to explore my repositories!
+Hello! 👋 I'm Ng Zheng Jie. I am currently in Year 2 at Universiti Malaya in Computer Science with a focus on Artificial Intelligence. I am passionate about learning and working on innovative projects in AI, machine learning, and software development. Feel free to explore my repositories!
 
 ## 🏆 Hackathon Experience
 

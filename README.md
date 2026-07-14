@@ -1,7 +1,7 @@
 
 - # About Me
 
-Hello! 👋 I'm Ng Zheng Jie. I am currently in Year 2 at Universiti Malaya in Computer Science with a focus on Artificial Intelligence. I am passionate about learning and working on innovative projects in AI, machine learning, and software development. Feel free to explore my repositories!
+Hello! I'm Ng Zheng Jie. I am currently in Year 3 at Universiti Malaya in Computer Science with a focus on Artificial Intelligence. I am passionate about learning and working on innovative projects in AI, machine learning, and software development. Feel free to explore my repositories!
 
 ## 🏆 Hackathon Experience
 
@@ -9,25 +9,62 @@ I've participated in several hackathons, building innovative AI-powered solution
 
 | Project Name | Organizer | Achievement | GitHub Link | Project Description |
 |--------------|-----------|-------------|-------------|-------------------|
-| **FraudGuard** | DevMatch 2025 | **Champion** | [FraudGuard](https://github.com/Marcusng88/FraudGuard) | Built a decentralized NFT marketplace on Sui network with AI-powered fraud detection using Google Gemini Pro Vision, LangChain, and vector similarity search to protect creators and users |
-| **SolarWarden** | Google | Participant | [solar-investigator-adk](https://github.com/Marcusng88/solar-investigator-adk) | Built SolarWarden, an AI copilot for solar farm operations using Google ADK and Gemini LLM, featuring multi-agent investigation system, real-time insights, workorder automation, and modern Angular dashboard for solar O&M workflows |
-| **DataHack 2025** | UM Data Analytics Club | **Champion** | [DataHack2025](https://github.com/Marcusng88/DataHack2025) | Developed an AI-powered EDA & Chat Assistant using Google ADK and LlamaIndex for analyzing SDG 14 - Life Under Water dataset with interactive dashboards and natural language understanding |
-| **Grab MEX AI Assistant** | UM Hackathon 2025 | Participant | [Grab-Mex-AI-Assistant](https://github.com/Marcusng88/Grab-Mex-AI-Assistant) | Built an AI-powered chat assistant for Grab merchants (sponsored by Grab) using multi-LLM architecture, featuring query engine, voice recognition, graph generation, and deep thinking capabilities |
-| **HybridHub** | Next AI Hackathon 2025 | Participant | [Hybrid-Hub](https://github.com/Marcusng88/Hybrid-Hub) | Built a hybrid work management assistant website for startups to reduce overhead costs by optimizing office space and enabling flexible work arrangements, featuring analytics dashboard, customizable office layouts, and AI-driven insights using Vanna AI |
-| **Campus Suka Makan** | PEKOM UM 2024 | Participant | [UM-internal-hackathon-2024](https://github.com/Marcusng88/UM-internal-hackathon-2024) | Built a food delivery platform for restaurateurs in Klang Valley to address expensive delivery fees, featuring delivery/pickup services and eco-friendly discounts for customers avoiding disposable cutlery |
+| **FraudGuard** | DevMatch 2025 | **Champion** | [FraudGuard](https://github.com/Marcusng88/FraudGuard) | Decentralized marketplace on Sui with AI-powered fraud detection for suspicious activity and plagiarism. |
+| **DataHack 2025** | UM Data Analytics Club | **Champion** | [DataHack2025](https://github.com/Marcusng88/DataHack2025) | Interactive data exploration dashboard and AI chat assistant for SDG 14 data. |
+| **Kabel Hackathon 2025** | Kabel Hackathon 2025 | **Champion** | [Kabel Hackathon 2025](https://github.com/Marcusng88/kabel-hackathon-2025) | Career-development platform with job matching, interview practice, and mentor discovery. |
+| **BOSSolution** | Future Ready Hackathon 2025 | **First runner-up** | [BOSSolution](https://github.com/Marcusng88/bos_solution) | AI-powered marketing intelligence platform for business teams. |
+| **AI Boss Decision Engine** | UM Hackathon 2026 | Participant | [Boss Decision](https://github.com/Marcusng88/boss_decision) | Multi-agent system that brings specialist AI perspectives to business decisions. |
+| **Guardian Voice** | FinHack 2026 | Participant | [Guardian Voice](https://github.com/Marcusng88/FinHack2026) | Fraud-prevention prototype using voice input, AI analysis, and a regulatory relationship graph. |
+| **FusionQuad** | Rexharge Hackathon 2026 | Participant | [FusionQuad](https://github.com/Marcusng88/FusionQuad) | Battery energy storage peak-shaving simulator with a multi-agent dispatch pipeline and real-time agent streaming. |
+| **SolarWarden** | Google ADK Hackathon 2025 | Participant | [SolarWarden](https://github.com/Marcusng88/solar-investigator-adk) | AI copilot for solar-farm operations and performance investigations. |
+| **InsureWiz** | CodeNection 2025 | Participant | [InsureWiz](https://github.com/Marcusng88/InsureWiz) | AI-powered platform for understanding and comparing insurance policies. |
+| **Grab MEX AI Assistant** | UM Hackathon 2025 | Participant | [Grab MEX AI Assistant](https://github.com/Marcusng88/Grab-Mex-AI-Assistant) | AI assistant for merchant insights and proactive guidance. |
+| **HybridHub** | Next AI Hackathon 2025 | Participant | [HybridHub](https://github.com/Marcusng88/Hybrid-Hub) | Hybrid-work management platform for workspace optimization. |
+| **Campus Suka Makan** | PEKOM UM Internal Hackathon 2024 | Participant | [Campus Suka Makan](https://github.com/Marcusng88/UM-internal-hackathon-2024) | Food delivery platform focused on lower delivery costs and eco-friendly choices. |
+
+## Project Experience
+
+| Project Name | GitHub Link | Project Description |
+| --- | --- | --- |
+| **chat-wiki** | [chat-wiki](https://github.com/Marcusng88/chat-wiki) | Turns documents into a searchable knowledge base and flags conflicting sources for review. |
+| **AI Heritage Archive Chatbot** | [AI-Chatbot](https://github.com/Marcusng88/AI-Chatbot) | AI-powered archive management and search system for Badan Warisan Malaysia. |
+| **Self Prompt Optimization Agent** | [self-prompt-optimization-agent](https://github.com/Marcusng88/self-prompt-optimization-agent) | LangGraph assistant that improves through editable instructions and user-profile context. |
+| **General Purpose Assistant** | [general-purpose-assistant](https://github.com/Marcusng88/general-purpose-assistant) | AI assistant with streaming chat, tools, scheduling, and persistent workspace memory. |
+| **mini-gpt-pytorch** | [mini-gpt-pytorch](https://github.com/Marcusng88/mini-gpt-pytorch) | Minimal character-level GPT implementation with training and interactive text generation. |
+| **Crop Production by District** | [Crop-Production-by-District](https://github.com/Marcusng88/Crop-Production-by-District) | Machine learning workflow for predicting district-level crop production in Malaysia. |
+| **Premium Amount Prediction** | [Premium-amount-prediction](https://github.com/Marcusng88/Premium-amount-prediction) | Machine learning project for predicting insurance premium amounts. |
+| **Digit Recognition** | [Digit-Recognition](https://github.com/Marcusng88/Digit-Recognition) | Digit classifier with a drawing interface and neural-network models. |
+| **Credit Card Fraud Detection** | [Credit_Card_Fraud_Detection](https://github.com/Marcusng88/Credit_Card_Fraud_Detection) | Machine learning model for identifying fraudulent card transactions. |
+| **Learn4All SDG4** | [sparklearn-sdg4](https://github.com/Marcusng88/sparklearn-sdg4) | Full-stack education platform supporting Sustainable Development Goal 4. |
+| **AI4AI** | [AI4AI](https://github.com/Marcusng88/AI4AI) | Multi-agent assistant for Malaysian government services. |
+
+## Development Activity
+
+<p align="center">
+  <a href="https://github.com/Marcusng88">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github_dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github" />
+      <img width="48%" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github" />
+    </picture>
+  </a>
+  <a href="https://leetcode.com/u/marcusng88/">
+    <img width="48%" alt="LeetCode statistics" src="https://leetcard.jacoblin.cool/marcusng88?theme=light,dark&font=Inter&animation=false" />
+  </a>
+</p>
 
 ## Skills
-- 🌱 I'm currently learning: Gen AI
-- 💻 Programming languages: Java, Python
-- 📚 Tools: Git, GitHub, VS Code
-- 📈 Working on: -
-- 👀 I'm interested in Gen AI SaaS projects
-- 💞️ I'm looking to collaborate on hackathon competitions, Gen AI SaaS projects, machine learning projects...
-- 😄 Pronouns: Marcus/Zheng jie
+- Currently learning: Gen AI, Machine Learning
+- Programming languages: Java, Python
+- Tools: Git, GitHub, VS Code
+- Working on: -
+- Interested in Gen AI SaaS projects
+- Looking to collaborate on hackathon competitions, Gen AI SaaS projects, machine learning projects...
+- Pronouns: Marcus/Zheng jie
 
 ## Contact Me
-- 📫 Email: ngzhengjie888@gmail.com
-- 💼 LinkedIn: [Ng Zheng Jie](https://www.linkedin.com/in/ng-zheng-jie/)
+- Email: ngzhengjie888@gmail.com
+- LinkedIn: [Ng Zheng Jie](https://www.linkedin.com/in/ng-zheng-jie/)
 ---
 
 Feel free to explore my repositories and contribute to open-source projects! 😊

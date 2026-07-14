@@ -68,7 +68,7 @@ I've participated in several hackathons, building innovative AI-powered solution
 - LinkedIn: [Ng Zheng Jie](https://www.linkedin.com/in/ng-zheng-jie/)
 ---
 
-Feel free to explore my repositories and contribute to open-source projects! 😊
+Feel free to explore my repositories and contribute to open-source projects!
 
 
 

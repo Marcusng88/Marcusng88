@@ -1,7 +1,8 @@
 
-- # About Me
+# Ng Zheng Jie (Marcus)
 
-Hello! I'm Ng Zheng Jie. I am currently in Year 3 at Universiti Malaya in Computer Science with a focus on Artificial Intelligence. I am passionate about learning and working on innovative projects in AI, machine learning, and software development. Feel free to explore my repositories!
+AI/ML builder creating intelligent systems, machine learning products, and AI agents.
+Year 3 Computer Science (Artificial Intelligence) student at Universiti Malaya.
 
 ## 🏆 Hackathon Experience
 

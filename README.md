@@ -41,14 +41,20 @@ I've participated in several hackathons, building innovative AI-powered solution
 
 ## Development Activity
 
-<p align="center">
-  <a href="https://github.com/Marcusng88">
-    <img height="175" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Marcusng88&show_icons=true&include_all_commits=true&theme=github_dark" />
-  </a>
-  <a href="https://leetcode.com/u/marcusng88/">
-    <img height="175" alt="LeetCode statistics" src="https://leetcard.jacoblin.cool/marcusng88?theme=light,dark&font=Inter&animation=false" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Marcusng88">
+        <img width="100%" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Marcusng88&show_icons=true&include_all_commits=true&theme=github_dark" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/marcusng88/">
+        <img width="100%" alt="LeetCode statistics" src="https://leetcard.jacoblin.cool/marcusng88?theme=light,dark&font=Inter&animation=false" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Skills
 - Currently learning: Gen AI, Machine Learning

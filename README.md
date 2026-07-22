@@ -43,14 +43,10 @@ I've participated in several hackathons, building innovative AI-powered solution
 
 <p align="center">
   <a href="https://github.com/Marcusng88">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github_dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github" />
-      <img width="48%" alt="GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Marcusng88&theme=github" />
-    </picture>
+    <img height="175" alt="GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=Marcusng88&show_icons=true&include_all_commits=true&theme=github_dark" />
   </a>
   <a href="https://leetcode.com/u/marcusng88/">
-    <img width="48%" alt="LeetCode statistics" src="https://leetcard.jacoblin.cool/marcusng88?theme=light,dark&font=Inter&animation=false" />
+    <img height="175" alt="LeetCode statistics" src="https://leetcard.jacoblin.cool/marcusng88?theme=light,dark&font=Inter&animation=false" />
   </a>
 </p>
 
